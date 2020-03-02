@@ -1,4 +1,4 @@
-# piperun-fe-challenge
+# PipeRun Front End Challenge
 
 ## Project setup
 ```
